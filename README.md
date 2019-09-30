@@ -1,2 +1,2 @@
-# go-chain
-the go version of chain
+# DDAM chain
+the go version of DDAM chain
